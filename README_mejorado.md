@@ -62,7 +62,7 @@ curl "https://v2.jokeapi.dev/joke/Programming?type=single"
 ### Foto de gato aleatorio (The Cat API)
 
 ```bash
-curl https://api.thecatapi.com/v1/images/search
+curl "https://api.thecatapi.com/v1/images/search"
 ```
 
 ```

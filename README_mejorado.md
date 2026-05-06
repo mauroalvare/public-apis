@@ -59,7 +59,7 @@ curl "https://v2.jokeapi.dev/joke/Programming?type=single"
 
 ---
 
-### Hecho random sobre números (Numbers API)
+### Foto de gato aleatorio (The Cat API)
 
 ```bash
 curl https://api.thecatapi.com/v1/images/search
@@ -74,6 +74,7 @@ curl https://api.thecatapi.com/v1/images/search
 
 ### Foto de perro aleatorio (Dog CEO API)
 
+```
 bash
 curl "https://dog.ceo/api/breeds/image/random"
 
@@ -82,6 +83,9 @@ json
 "message": "https://images.dog.ceo/breeds/labrador/n02099712_7954.jpg",
 "status": "success"
 }
+```
+
+---
 
 ## Estructura del repositorio
 

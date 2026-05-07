@@ -62,24 +62,18 @@ Incorporar una licencia en trabajos académicos, aunque no siempre sea obligator
 
 ---
 
-## Reflexión
+# Reflexión
 
-### Rol de GitHub en el desarrollo open source
+## GitHub y el open source
 
-GitHub se ha consolidado como una plataforma central en el desarrollo de software de código abierto. Antes de su aparición, la colaboración distribuida resultaba considerablemente más compleja, ya que dependía de mecanismos como el envío de parches por correo electrónico y listas de discusión.
+GitHub transformó la colaboración en proyectos abiertos. Antes, coordinar con otras personas era engorroso: parches por correo, listas de discusión, permisos para todo. Ahora, con Pull Requests, Issues y forks, cualquiera puede contribuir sin fricciones y el historial queda ordenado por defecto.
 
-La plataforma introduce herramientas como Pull Requests, Issues y control de versiones accesible, lo que simplifica la coordinación entre múltiples desarrolladores. Además, el modelo de fork permite que cualquier usuario pueda contribuir a un proyecto sin requerir permisos iniciales.
+También funciona como vitrina profesional: lo que publicás y cómo contribuís es visible para quienes te quieran contratar o colaborar.
 
-Por otro lado, GitHub funciona como un portafolio profesional, donde la actividad del usuario —repositorios, contribuciones y frecuencia de trabajo— es visible para potenciales empleadores y colaboradores.
+## Estandarizar el flujo de trabajo
 
-### Estandarización de prácticas
+Usar ramas, escribir buenos mensajes de commit y trabajar con Pull Requests no es burocracia, es lo que hace que un proyecto sea legible y que alguien nuevo pueda sumarse sin pedir explicaciones. El flujo ya es conocido; la curva de entrada baja sola.
 
-La adopción de prácticas estandarizadas responde a la necesidad de organizar el trabajo colaborativo. El uso de ramas, mensajes de commit descriptivos y Pull Requests permite mantener un flujo de trabajo ordenado y revisable.
+## Documentar bien
 
-Estos estándares también facilitan la incorporación de nuevos colaboradores, quienes pueden integrarse a proyectos sin necesidad de instrucciones detalladas, dado que el flujo de trabajo es ampliamente conocido.
-
-### Importancia de la documentación
-
-La documentación cumple un rol fundamental en proyectos colaborativos. Un proyecto sin documentación resulta difícil de comprender y utilizar para terceros, lo que limita su adopción y desarrollo.
-
-Un archivo README claro y completo permite entender rápidamente el propósito del proyecto, su funcionamiento y las formas de contribuir. En el ámbito académico, la documentación también es clave, ya que forma parte del proceso de aprendizaje en el desarrollo de software y garantiza que el trabajo sea comprensible para otros.
+Un proyecto sin README claro es una herramienta sin instrucciones: puede ser excelente, pero nadie lo va a usar. En el ámbito académico, además, documentar bien es parte del aprendizaje: obliga a organizar ideas y justificar decisiones. Un trabajo comprensible para otros demuestra que uno mismo lo entendió.
